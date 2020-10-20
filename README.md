@@ -2,20 +2,19 @@
 
 > A Vue.js project
 
-## Build Setup
+## 运行项目
 
 ``` bash
-# install dependencies
+# 安装依赖包
 npm install
 
-# serve with hot reload at localhost:8080
+#  运行
 npm run dev
 
-# build for production with minification
+# 打包编译
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 博客地址  
+https://juejin.im/post/6885535026184716295/
